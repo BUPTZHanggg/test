@@ -6,4 +6,4 @@ insert br_test
 ee
 ff
 insert master
-
+conflict br_test
